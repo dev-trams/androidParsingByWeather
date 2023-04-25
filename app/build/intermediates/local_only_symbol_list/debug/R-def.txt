@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable nb01
+drawable nb04
+drawable nb07
+drawable nb08
+drawable nb11
+id button
+id button1
+id count
+id image
+id image2
+id item1
+id item2
+id list
+id scroll
+id temp
+id text
+id toggle
+layout activity_main
+layout item
+menu menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Prantice
+xml backup_rules
+xml data_extraction_rules
